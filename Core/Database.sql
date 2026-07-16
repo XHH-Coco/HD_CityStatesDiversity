@@ -138,7 +138,7 @@ from CatalhoyukResources;
 insert or replace into Modifiers
 	(ModifierId,									ModifierType,							SubjectRequirementSetId)
 select
-	'MINOR_CIV_CSE_CATALHOYUK_' || ResourceType,	'MODIFIER_PLAYER_CITIES_ATTACH_MODIFIER',   'HD_CITY_HAS_IMPROVED_' || ResourceType || '_REQUIRMENTS'
+	'MINOR_CIV_CSE_CATALHOYUK_' || ResourceType,	'MODIFIER_PLAYER_CITIES_ATTACH_MODIFIER',   'HD_CITY_HAS_IMPROVED_' || ResourceType || '_REQUIREMENTS'
 from CatalhoyukResources;
 insert or replace into Modifiers
 	(ModifierId,													ModifierType)
