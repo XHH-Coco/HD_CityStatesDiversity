@@ -203,7 +203,7 @@ values
     ("LOC_CIVILIZATION_CSD_TIRANA_ADJECTIVE",        "Tirana"),
     ("LOC_CIVILIZATION_CSD_TIRANA_DESCRIPTION",      "{LOC_CIVILIZATION_CSD_TIRANA_NAME} city-state"),
     ("LOC_CSD_TIRANA_TRAIT_NAME",                    "{LOC_CIVILIZATION_CSD_TIRANA_NAME} Suzerain Bonus"),
-    ("LOC_CSD_TIRANA_TRAIT_DESCRIPTION",             "+2 Building charges to newly trained Military Engineers. Fort provides +1 [ICON_PRODUCTION] Production to adjacent Strategic resource, and standard adjacency bonus to Encampment."),
+    ("LOC_CSD_TIRANA_TRAIT_DESCRIPTION",             "+2 [ICON_CHARGES] build charges to newly trained Military Engineering Units. Fort provides +1 [ICON_PRODUCTION] Production to adjacent Strategic resource, and standard adjacency bonus to Encampment."),
     ("LOC_LEADER_MINOR_CIV_CSD_TIRANA_NAME",         "{LOC_CIVILIZATION_CSD_TIRANA_NAME}"),
     ("LOC_CITY_NAME_TIRANA",                         "{LOC_CIVILIZATION_CSD_TIRANA_NAME}"),
     -- Pedia
@@ -438,7 +438,7 @@ values
     ("zh_Hans_CN",  "LOC_CIVILIZATION_CSD_TIRANA_ADJECTIVE",        "地拉那的"),
     ("zh_Hans_CN",  "LOC_CIVILIZATION_CSD_TIRANA_DESCRIPTION",      "{LOC_CIVILIZATION_CSD_TIRANA_NAME}城邦"),
     ("zh_Hans_CN",  "LOC_CSD_TIRANA_TRAIT_NAME",                    "{LOC_CIVILIZATION_CSD_TIRANA_NAME}宗主国加成"),
-    ("zh_Hans_CN",  "LOC_CSD_TIRANA_TRAIT_DESCRIPTION",             "新生产的军事工程师+2劳动力。堡垒为相邻的战略资源+1 [ICON_PRODUCTION] 生产力，为军营提供额外标准相邻加成。"),
+    ("zh_Hans_CN",  "LOC_CSD_TIRANA_TRAIT_DESCRIPTION",             "新训练的军事工程单位+2 [ICON_CHARGES] 建造次数。堡垒为相邻的战略资源+1 [ICON_PRODUCTION] 生产力，为军营提供额外标准相邻加成。"),
     ("zh_Hans_CN",  "LOC_LEADER_MINOR_CIV_CSD_TIRANA_NAME",         "{LOC_CIVILIZATION_CSD_TIRANA_NAME}"),
     ("zh_Hans_CN",  "LOC_CITY_NAME_TIRANA",                         "{LOC_CIVILIZATION_CSD_TIRANA_NAME}"),
     -- Pedia
