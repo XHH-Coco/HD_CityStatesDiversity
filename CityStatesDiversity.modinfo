@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="c0417322-9747-42d5-9717-b0df5a4c6e5d" version="2.1">
+<Mod id="c0417322-9747-42d5-9717-b0df5a4c6e5d" version="2.2">
   <Properties>
     <Name>LOC_CITY_STATES_DIVERSITY_NAME</Name>
     <Description>City-States Diversity</Description>
@@ -33,8 +33,8 @@
   </ActionCriteria>
   <LocalizedText>
     <Text id="LOC_CITY_STATES_DIVERSITY_NAME">
-      <en_US>[COLOR_Civ6LightBlue]Harmony in Diversity v2.1: City-States Diversity[ENDCOLOR]</en_US>
-      <zh_Hans_CN>[COLOR_Civ6LightBlue]【和而不同 v2.1】城邦多样化[ENDCOLOR]</zh_Hans_CN>
+      <en_US>[COLOR_Civ6LightBlue]Harmony in Diversity v2.2: City-States Diversity[ENDCOLOR]</en_US>
+      <zh_Hans_CN>[COLOR_Civ6LightBlue]【和而不同 v2.2】城邦多样化[ENDCOLOR]</zh_Hans_CN>
     </Text>
   </LocalizedText>
   <FrontEndActions>
